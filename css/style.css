@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.bg-img {
+    background-image: url('../image/body-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+a {
+    color: #BC2E07;
+    text-decoration: none;
+    list-style: none;
+}
+
+a:hover {
+    color: #721c04;
+}
